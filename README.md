@@ -2,13 +2,7 @@
 
 - 👨‍💻 Atualmente estou estou trabalhando no Grupo DVA como desenvolvedor web! 
 - ⚡ Curiosidade: Amo desenvolver jogos ❤
-<div style="display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    align-content: center;
-    justify-content: center;
-    align-items: center;
-    gap: 25px;">
+<div  align="center">
   
 ![GitHub Views](https://github-readme-stats.vercel.app/api?username=eduardoks98&show_icons=true&theme=tokyonight)
 
