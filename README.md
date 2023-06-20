@@ -6,7 +6,6 @@
 ![GitHub Views](https://komarev.com/ghpvc/?username=eduardoks98)
 
 
-<div align="center" style="display: inline_block"><br>
              
   <img align="center" alt="eduardoks98-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" > 
   <img align="center" alt="eduardoks98-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
