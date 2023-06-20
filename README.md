@@ -11,6 +11,9 @@
     gap: 25px;">
   
 ![GitHub Views](https://github-readme-stats.vercel.app/api?username=eduardoks98&show_icons=true&theme=tokyonight)
+
+<br>
+
 ![GitHub Views](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoks98&hide_progress=true&theme=tokyonight)
 
 </div>
