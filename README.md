@@ -3,8 +3,7 @@
 - 👨‍💻 Atualmente estou estou trabalhando no Grupo DVA como desenvolvedor web! 
 - ⚡ Curiosidade: Amo desenvolver jogos ❤
 
-<br>
-(https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoks98&hide_progress=true&theme=tokyonight)
+![GitHub Views](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoks98&hide_progress=true&theme=tokyonight)
 
 <div align="center">
   <img align="center" alt="eduardoks98-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" > 
