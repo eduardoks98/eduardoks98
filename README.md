@@ -12,3 +12,9 @@
   <img align="center" alt="eduardoks98-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="eduardoks98-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/github/followers/eduardoks98?label=Seguidores&style=social" alt="Seguidores">
+  <img src="https://img.shields.io/github/stars/eduardoks98?label=Estrelas&style=social" alt="Estrelas">
+  <img src="https://img.shields.io/github/last-commit/eduardoks98/eduardoks98?label=%C3%9Altimo%20Commit" alt="Último Commit">
+</div>
