@@ -1,4 +1,4 @@
-### Olá, eu sou Eduardo Kunst Steffens 👋
+### Olá, eu sou Eduardo Steffens 👋
 
 - 👨‍💻 Atualmente estou estou trabalhando no Grupo DVA como desenvolvedor web! 
 - ⚡ Curiosidade: Amo desenvolver jogos ❤
